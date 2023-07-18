@@ -33,3 +33,9 @@ https://www.bbc.com/korean/articles/ckrjvzdkky5o
 
 - 에디터픽] 러, 크림대교 또 폭발 2명 사망.."우크라 특수부대 수중 드론 소행" / YTN
   - https://www.youtube.com/live/QS5maYxYD_Y?feature=share
+
+  - 월 	뱅크오브아메리카 (BAC)
+  - 화 		테슬라 (TSLA) , IBM 넥플릭스
+  - 수	테슬라 (TSLA)		ASML (ASML)
+  - 목 	TSMC (TSM), 	존슨앤존슨 (JNJ)
+  - 금 	아메리칸 익스프레스 (AXP)
