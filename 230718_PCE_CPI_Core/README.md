@@ -44,3 +44,6 @@ https://www.bbc.com/korean/articles/ckrjvzdkky5o
 
 - Extreme weather may douse sizzling stock market, warns Schwab strategist
   - https://www.marketwatch.com/story/extreme-weather-may-douse-sizzling-stock-market-warns-schwab-strategist-83545407?mod=home-page
+
+- NATO, '우크라이나 가입' 구체적인 일정 제시 안 해
+  - https://www.bbc.com/korean/articles/ckrjvzdkky5o
