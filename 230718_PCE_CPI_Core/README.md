@@ -22,3 +22,6 @@ https://www.investing.com/economic-calendar/pce-price-index-906
 # Core PCE YoY
 
 https://www.investing.com/economic-calendar/core-pce-price-index-905
+
+# 뉴스 체크
+https://www.bbc.com/korean/articles/ckrjvzdkky5o
