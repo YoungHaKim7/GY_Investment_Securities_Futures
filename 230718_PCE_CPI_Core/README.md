@@ -23,6 +23,10 @@ https://www.investing.com/economic-calendar/pce-price-index-906
 
 https://www.investing.com/economic-calendar/core-pce-price-index-905
 
+# Canada Bloomber
+
+https://www.bnnbloomberg.ca/
+
 # 뉴스 체크
 https://www.bbc.com/korean/articles/ckrjvzdkky5o
 
