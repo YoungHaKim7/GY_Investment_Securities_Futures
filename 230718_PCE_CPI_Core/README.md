@@ -36,6 +36,6 @@ https://www.bbc.com/korean/articles/ckrjvzdkky5o
 
   - 월 	뱅크오브아메리카 (BAC)
   - 화 		테슬라 (TSLA) , IBM 넥플릭스
-  - 수	테슬라 (TSLA)		ASML (ASML)
+  - 수	ASML (ASML)
   - 목 	TSMC (TSM), 	존슨앤존슨 (JNJ)
   - 금 	아메리칸 익스프레스 (AXP)
