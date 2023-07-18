@@ -47,3 +47,5 @@ https://www.bbc.com/korean/articles/ckrjvzdkky5o
 
 - NATO, '우크라이나 가입' 구체적인 일정 제시 안 해
   - https://www.bbc.com/korean/articles/ckrjvzdkky5o
+ 
+  -  우에다 日銀 총재 "日銀 물가 예측 빗나갈 수 있어”
