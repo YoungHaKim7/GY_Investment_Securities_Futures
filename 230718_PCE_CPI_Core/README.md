@@ -25,3 +25,7 @@ https://www.investing.com/economic-calendar/core-pce-price-index-905
 
 # 뉴스 체크
 https://www.bbc.com/korean/articles/ckrjvzdkky5o
+
+
+- 에디터픽] 러, 크림대교 또 폭발 2명 사망.."우크라 특수부대 수중 드론 소행" / YTN
+  - https://www.youtube.com/live/QS5maYxYD_Y?feature=share
