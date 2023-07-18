@@ -39,3 +39,5 @@ https://www.bbc.com/korean/articles/ckrjvzdkky5o
   - 수	ASML (ASML)
   - 목 	TSMC (TSM), 	존슨앤존슨 (JNJ)
   - 금 	아메리칸 익스프레스 (AXP)
+ 
+- 2024년 대선 유력 후보 (미국) https://www.bbc.com/korean/international-65186660
