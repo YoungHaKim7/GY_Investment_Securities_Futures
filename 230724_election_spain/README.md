@@ -9,4 +9,8 @@ https://namu.wiki/w/2023%EB%85%84%20%EC%8A%A4%ED%8E%98%EC%9D%B8%20%EC%B4%9D%EC%8
 - 26(수) : 메타
 - 27(목) : 인텔
 - 28(금) : 아마존
-https://www.investing.com/earnings-calendar/
+  - https://www.investing.com/earnings-calendar/
+
+# 이번 주 주요 일정
+- 연합인포맥스
+http://news.einfomax.co.kr/news/articleView.html?idxno=4274619
