@@ -35,5 +35,10 @@ https://namu.wiki/w/%EA%B5%AD%EA%B0%80%EB%B3%84%20%EB%AA%85%EB%AA%A9%20GDP%20%EC
   - https://www.investing.com/earnings-calendar/
 
 # 이번 주 주요 일정
-- 연합인포맥스
-http://news.einfomax.co.kr/news/articleView.html?idxno=4274619
+
+- 26일(우리나라 기준 27일 새벽 3시 정도)
+
+  - 6월 신규주택판매
+  - FOMC 정례회의(2일차)·기준금리 결정
+
+출처 : 연합인포맥스(http://news.einfomax.co.kr)
