@@ -116,3 +116,78 @@ https://www.investing.com/earnings-calendar/
 출처 : 연합인포맥스(http://news.einfomax.co.kr)
 
 
+---
+
+# 지난주 금요일 주요 뉴스
+
+http://stock.mk.co.kr/news/view/183132
+
+- 미 연준, 27일 회의에서 '바젤Ⅲ 최종개정안' 적용 결정  
+
+- 러시아중앙은행, 100bp 금리인상…1년여만에 첫 인상
+
+- WSJ "우크라, 올해 대반격에 큰 돌파구 없을 듯" 진단
+
+- 푸틴, 우크라지원 폴란드에 “벨라루스 공격땐 러 공격 간주”
+
+- "AI, 안보와 직결"…美상원, 국방수권법 통한 규제 추진
+
+---
+
+- 영국도 물가 꺾였다…주요국 ‘인플레 전쟁’ 9부 능선 넘나
+
+- CPI 7.9% yoy
+  - https://www.investing.com/economic-calendar/cpi-67 
+- Core CPI 6.9% yoy 추세가???더 올랐는데요????
+  - https://www.investing.com/economic-calendar/core-cpi-55
+
+---
+
+- 리사 수 AMD CEO “TSMC 외 다른 파트너 고려”, 삼성전자 기회 잡나
+  - TSMC 애리조나 공장 1년 연기, 2분기 순이익 23% 감소
+
+[출처] - 국민일보
+[원본링크] - http://news.kmib.co.kr/article/view.asp?arcid=0018492417&code=61151111&sid1=yeo 
+
+---
+
+# 230419 기사
+
+- "IRA 전기차 보조금 허점 악용해 中기업에 美세금 흘러가게 돼"
+
+https://www.yna.co.kr/view/AKR20230419003600071
+
+
+---
+
+# 美 하원, 포드·中 합작 배터리 회사 조사 착수 
+- 230721 뉴스
+https://www.yna.co.kr/view/AKR20230721167500071
+
+- 美하원, 'IRA 우회' 포드-CATL 합작 관련 조사 착수…"심각한 의문"
+하원 세입위원장 및 미중전략경쟁특위 위원장 포드에 공동 서한 
+  - 230722
+    - https://www.news1.kr/articles/?5117131
+
+---
+
+# '위성 인터넷 추진' 아마존, 1.2억달러 들여 위성처리시설 건설
+
+2023-07-22 04:07 
+
+- 카이퍼 프로젝트 마지막 단계…머스크 스타링크와 같은 인터넷 사업
+
+https://www.yna.co.kr/view/AKR20230722003300091
+
+---
+
+# 미증시 시작전 뉴스체크
+
+
+---
+
+The end 
+
+Q & A
+
+---
