@@ -8,6 +8,13 @@ Algorithmic+Trading_글로벌 경제 상식. 전세계 모든 자산에 투자�
 
 <hr>
 
+# U.S Morning Briefing
+
+https://www.morningstar.com/news
+
+<hr>
+
+
 <br>
 
 # 카카오톡 해주 해선 수다방(아무 이야기)
