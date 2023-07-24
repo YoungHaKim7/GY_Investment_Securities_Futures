@@ -3,7 +3,7 @@
 https://namu.wiki/w/2023%EB%85%84%20%EC%8A%A4%ED%8E%98%EC%9D%B8%20%EC%B4%9D%EC%84%A0%EA%B1%B0
 
 ```mermaid
-pie title Pets adopted by volunteers
+pie title Spain election 2023 | theguardian
     "PSOE" : 122
     "Sumar" : 31
     "Vox" : 33
