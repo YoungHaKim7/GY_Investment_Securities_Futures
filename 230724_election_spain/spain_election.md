@@ -184,6 +184,8 @@ https://www.yna.co.kr/view/AKR20230722003300091
 # 미증시 시작전 뉴스체크
 
 
+https://www.morningstar.com/news/dow-jones/202307242123/north-american-morning-briefing-investors-primed-this-week-for-fed-more-heavyweight-earnings
+
 ---
 
 The end 
