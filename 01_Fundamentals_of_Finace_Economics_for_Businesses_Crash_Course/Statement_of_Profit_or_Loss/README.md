@@ -48,6 +48,26 @@
     </tr>
 </table>
 
+<br>
+<hr>
+
+# Statement of Financial Position
+
+<table border="1">
+    <tr>
+    <td colspan="2" align="center"></td>
+    </tr>
+    <tr align="center">
+        <td rowspan="2">Assets</td>
+        <td>Liabilities</td>
+    </tr>
+    <tr align="center">
+        <td>Equity</td>
+    </tr>
+</table>
+
+<hr>
+
 # Assets
 
 - Non Current
