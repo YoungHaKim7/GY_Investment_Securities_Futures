@@ -17,5 +17,6 @@ https://www.morningstar.com/news
 
 <br>
 
-# 카카오톡 해주 해선 수다방(아무 이야기)
-https://open.kakao.com/o/gTAHK3uf
+# 디스코드Discord 트레이딩 룸 해주 해선 수다방(아무 이야기)
+
+https://discord.gg/FqxjaY8M
