@@ -14,4 +14,13 @@ economic strategy"
 
 - Purpose
 - Target Audience
-- 
+- Explanation fo the business
+- Unique
+- Values
+
+# Company Analysis : SWOT
+
+- Strengths
+- Weaknesses
+- Threats
+- Opportunities
