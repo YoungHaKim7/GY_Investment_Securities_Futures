@@ -70,8 +70,8 @@
 
 # Assets
 
-- Non Current
 - Current Assets
+- Non Current
 
 
 <table border="1">
@@ -159,8 +159,8 @@
 # Liabilities(Statement of Financial Position)
 
 - Liabilities
-  - non Current
   - Current liabilities
+  - non Current
 
 ```
 Net Assets = Total Assets - Total Liabilities
