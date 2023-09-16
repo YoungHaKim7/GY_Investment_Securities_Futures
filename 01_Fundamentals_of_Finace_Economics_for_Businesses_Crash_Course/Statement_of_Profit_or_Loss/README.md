@@ -278,3 +278,150 @@ Assets = Liabilities + Shareholder Equity
         <td>1,100</td>
     </tr>
 </table>
+
+
+<br>
+
+<hr>
+
+# Cash Flow Forecast
+
+- Shorter Period
+  - 3 Months
+
+- Inflows cs Outflows
+  - For individual aspects of the operations
+
+
+<table border="1">
+    <tr>
+    <td colspan="4" align="center">Cash flow forecast for ABC Ltd or ABC for the first three months of 20XX</td>
+    </tr>
+    <tr align="center">
+        <td>All figures in $m</td>
+        <td>January</td>
+        <td>February</td>
+        <td>March</td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Opening balance</strong></em></td>
+        <td>8</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Cash inflows</strong></em></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Cash sales revenue</td>
+        <td>300</td>
+        <td>300</td>
+        <td>300</td>
+    </tr>
+    <tr align="center">
+        <td>Tax refund</td>
+        <td></td>
+        <td>3</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Total cash inflows</strong></em></td>
+        <td>300</td>
+        <td>303</td>
+        <td>300</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Cash outflows</strong></em></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Rent</td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Packaging</td>
+        <td>15</td>
+        <td>15</td>
+        <td>15</td>
+    </tr>
+    <tr align="center">
+        <td>Salaries and wages</td>
+        <td>50</td>
+        <td>50</td>
+        <td>50</td>
+    </tr>
+    <tr align="center">
+        <td>Cost of Sales</td>
+        <td>220</td>
+        <td>220</td>
+        <td>220</td>
+    </tr>
+    <tr align="center">
+        <td>Heating and lighting</td>
+        <td>4</td>
+        <td>4</td>
+        <td>4</td>
+    </tr>
+    <tr align="center">
+        <td>Delivery</td>
+        <td>15</td>
+        <td>15</td>
+        <td>15</td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Total cash out flows</strong></em></td>
+        <td>306</td>
+        <td>304</td>
+        <td>304</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Net cash flow</strong></em></td>
+        <td>(6)</td>
+        <td>(1)</td>
+        <td>(4)</td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Closing balance</strong></em></td>
+        <td>2</td>
+        <td>1</td>
+        <td>(3)</td>
+    </tr>
+</table>
