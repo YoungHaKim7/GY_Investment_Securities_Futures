@@ -104,6 +104,11 @@
         <td>800</td>
     </tr>
     <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
         <td><em><strong>Current assets</strong></em></td>
         <td></td>
         <td></td>
@@ -129,8 +134,142 @@
         <td>1,100</td>
     </tr>
     <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
         <td><em><strong>Total assets</strong></em></td>
         <td></td>
         <td>1,900</td>
+    </tr>
+</table>
+
+
+# Liabilities(Statement of Financial Position)
+
+- Liabilities
+  - non Current
+  - Current liabilities
+
+```
+Net Assets = Total Assets - Total Liabilities
+
+Assets = Liabilities + Shareholder Equity
+```
+
+<table border="1">
+    <tr>
+    <td colspan="3" align="center">ABC Ltd</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>$m</td>
+        <td>$m</td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Non-current assets</strong></em></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Borrowings-long term</td>
+        <td>300</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Non-current liablities</strong></em></td>
+        <td></td>
+        <td>300</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Current liabilities</strong></em></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Bank overdraft</td>
+        <td>200</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Trade creditors</td>
+        <td>100</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Other short-term loans</td>
+        <td>200</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Current liabilities</td>
+        <td></td>
+        <td>500</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Total liabilities</strong></em></td>
+        <td></td>
+        <td>800</td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Net assets</strong></em></td>
+        <td></td>
+        <td>1,100</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Equity</strong></em></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Share capital</td>
+        <td>100</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Retained earnings</td>
+        <td>1,000</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Total Equity</strong></em></td>
+        <td></td>
+        <td>1,100</td>
     </tr>
 </table>
