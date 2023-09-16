@@ -84,31 +84,6 @@
         <td>$m</td>
     </tr>
     <tr align="center">
-        <td><em><strong>Non-current assets</strong></em></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr align="center">
-        <td>Property, plant and equiqment</td>
-        <td>900</td>
-        <td></td>
-    </tr>
-    <tr align="center">
-        <td>Accumulated depreciation</td>
-        <td>(100)</td>
-        <td></td>
-    </tr>
-    <tr align="center">
-        <td>Non-current assets</td>
-        <td></td>
-        <td>800</td>
-    </tr>
-    <tr align="center">
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr align="center">
         <td><em><strong>Current assets</strong></em></td>
         <td></td>
         <td></td>
@@ -132,6 +107,36 @@
         <td>Current assets</td>
         <td></td>
         <td>1,100</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Non-current assets</strong></em></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Property, plant and equiqment</td>
+        <td>900</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Accumulated depreciation</td>
+        <td>(100)</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Non-current assets</td>
+        <td></td>
+        <td>800</td>
     </tr>
     <tr align="center">
         <td></td>
@@ -173,31 +178,6 @@ Assets = Liabilities + Shareholder Equity
         <td>$m</td>
     </tr>
     <tr align="center">
-        <td><em><strong>Non-current assets</strong></em></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr align="center">
-        <td>Borrowings-long term</td>
-        <td>300</td>
-        <td></td>
-    </tr>
-    <tr align="center">
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr align="center">
-        <td><em><strong>Non-current liablities</strong></em></td>
-        <td></td>
-        <td>300</td>
-    </tr>
-    <tr align="center">
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr align="center">
         <td><em><strong>Current liabilities</strong></em></td>
         <td></td>
         <td></td>
@@ -221,6 +201,36 @@ Assets = Liabilities + Shareholder Equity
         <td>Current liabilities</td>
         <td></td>
         <td>500</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Non-current assets</strong></em></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Borrowings-long term</td>
+        <td>300</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td><em><strong>Non-current liablities</strong></em></td>
+        <td></td>
+        <td>300</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr align="center">
         <td></td>
@@ -425,3 +435,55 @@ Assets = Liabilities + Shareholder Equity
         <td>(3)</td>
     </tr>
 </table>
+
+<br>
+
+<hr>
+
+<hr>
+
+# Financial Statement Analysis
+
+- Ratios
+- Horizontal Analysis
+- Coomon Size
+
+## Ratios
+- Profitability Ratios
+  - Returns on your investment
+- Liquidity Ratios
+  - How easily you can move money
+- Activity Ratios
+  - Day to day operations
+- Leverage Ratios
+  - Utilization of Debt 
+
+<hr>
+
+- Profitability Ratios
+  - Returns on your investment
+    - Gross Profit Margin = (Revenues - Cost of Goods Sold)/Revenues
+    - Net Profit Margin = Net Income/Revenues
+    - Return on Assets(ROA) = Net Income/Total Assets
+    - Return on Equity(ROE) = Net Income/ Equity
+
+- Liquidity Ratios
+  - How easily you can move money
+    - Current Ratio = (Current Assets/Current Liabilities)
+    - Quick Ratio = (Current Assets - Inventory)/ Current Liabilities
+
+- Asset Utilization(Activity) Ratios
+  - Day to day operations
+    - Average Days in Inventory = [(Starting inventory + ending inventory)/2]* Days/2
+    - Inventory Turnover = (COGS/Average Inventory)
+    - Average Collection Period = (AR)/(Credit Sales/365)
+    - Average Collection Period = 365 Days / Receivables Turnover Ratio
+    https://www.investopedia.com/terms/a/average_collection_period.asp
+    - Average Days Payable = (Average accounts payable * Days)/ COGS
+    - Cash Conversion Cycle = Average days inventory + Average days receivable - Average days payable
+
+- Debt(Leverage) Ratios
+  - Utilization of Debt 
+    - Debt-to-Total Assets = Total Debt/Total Assets
+    - Times Interest Earned = Operating Profit/Interest Expense
+    - Fixed Charge Coverage = Operating Profit/Fixed Charges
