@@ -238,6 +238,11 @@ Assets = Liabilities + Shareholder Equity
         <td>800</td>
     </tr>
     <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
         <td><em><strong>Net assets</strong></em></td>
         <td></td>
         <td>1,100</td>
