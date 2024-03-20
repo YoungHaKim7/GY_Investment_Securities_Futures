@@ -4,6 +4,10 @@
 
 <hr>
 
+# Latex 문법
+
+- https://junia3.github.io/blog/latex_symbols
+
 # Next-gen Python tooling
 
 - https://astral.sh/
