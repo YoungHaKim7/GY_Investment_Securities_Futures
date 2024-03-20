@@ -1,3 +1,9 @@
+<p align="center">
+  <img width=69px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/7e4ac027-f6ca-4679-a09b-982431447afa"
+</p>
+
+<hr>
+
 # Next-gen Python tooling
 
 - https://astral.sh/
