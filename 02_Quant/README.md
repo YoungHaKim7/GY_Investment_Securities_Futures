@@ -8,6 +8,13 @@
 
 - https://junia3.github.io/blog/latex_symbols
 
+<hr>
+
+# 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
+- https://jupyterlite.github.io/demo/lab/index.html
+
+<hr>
+
 # Next-gen Python tooling
 
 - https://astral.sh/
