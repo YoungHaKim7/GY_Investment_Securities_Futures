@@ -17,7 +17,9 @@ https://www.morningstar.com/news
 
 <br>
 
-# 디스코드Discord 트레이딩 룸 해주 해선 유료회원 상담
+<!-- # 디스코드Discord 트레이딩 룸 해주 해선 유료회원 상담 ->
 
-- 유료회원 가입 상담
-  - https://t.me/+bsmn69REZMxhM2Y1
+-- - 유료회원 가입 상담 -->
+
+
+
