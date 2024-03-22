@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=69px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/7e4ac027-f6ca-4679-a09b-982431447afa"
+  <img width=100px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/f5cd30c4-d27b-4d38-b5f1-3bb4d47ed54a"
 </p>
 
 <hr>
