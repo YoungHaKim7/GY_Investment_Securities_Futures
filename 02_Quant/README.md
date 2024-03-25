@@ -13,6 +13,22 @@
 # 인터넷으로 파이썬 쥬피터노트북 해보기 (신기하네 ㅋ)
 - https://jupyterlite.github.io/demo/lab/index.html
 
+# Jupyter 노트북 러스트로 빠르게 돌리기
+
+- https://racum.blog/articles/rust-jupyter/
+
+- First, you need to download and build the kernel itself via cargo:
+
+```bash
+$ cargo install --locked evcxr_jupyter
+```
+
+- Then, use its binary to automatically install it inside Jupyter:
+
+```bash
+$ evcxr_jupyter --install
+```
+
 <hr>
 
 # Next-gen Python tooling
