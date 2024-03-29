@@ -15,6 +15,11 @@ https://www.morningstar.com/news
 <hr>
 
 
+# Rust Quant(Rust Finance)
+
+- 여기에 정리중
+  - https://github.com/YoungHaKim7/rust_finance_pola_rs
+
 <br>
 
 <!-- # 디스코드Discord 트레이딩 룸 해주 해선 유료회원 상담 ->
